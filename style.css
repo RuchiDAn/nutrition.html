@@ -1,0 +1,73 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.rectangle{
+    width: 280px;
+    height: 635px;
+    border: 2px solid black;
+    padding: 0 7px;
+    margin: 100px auto;    
+}
+header h1{
+    text-align: center;
+    margin: 2px 0;
+    letter-spacing: 0.15px;
+}
+.bold{
+    font-weight: 800;
+}
+.hr{
+    border-bottom: 1px solid #888989;
+    margin: 2px 0;
+
+}
+p{
+    margin: 0px;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.large, .medium{
+    background-color: black;
+    border: 0;
+    height: 10px;
+}
+.calories{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    
+}
+.bold{
+font-weight: 800;
+
+}
+.small-text{
+    font-size: 0.85rem;
+}
+.medium{
+    height: 5px;
+}
+.right{
+     float: right;
+}
+.flat{
+    padding: 11px;
+}
+.hori{
+    margin-left: 15%;
+}
+.fiber{
+     margin-left: 5%;
+}
+.sugar{
+    margin-left: 8%;
+}
+.fat{
+    margin-left: 5%;
+}
+.Add{
+    margin-left: 10%;
+}
